@@ -1,0 +1,7 @@
+{
+  "name": "VisionGuard AI - Hostel Security",
+  "description": "AI-powered hostel security platform with real-time CCTV monitoring, facial recognition, intelligent threat detection, evidence log, and system diagnostics.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
